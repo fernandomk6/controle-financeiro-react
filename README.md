@@ -16,14 +16,14 @@ como por exemplo o firebase.
 ## Tecnologias usadas
 
 - React
-- react-Icons
+- React-Icons
 - Styled-Componente
-- Todas as outras dependencias são as dependencias padrão
-instaladas com o comando `npm create-react-app`
+- Todas as outras dependências são as padrões
+instaladas com o comando `npx create-react-app`
 
-## Como usar
+## Como instalar
 
-- Copie o `package.json` e qualquer diretorio em sua máquina.
+- Copie o `package.json` e qualquer diretório em seu sistema
 - Abra algum terminal nessa pasta aonde está o `package.json`
 - Execute no terminal a linha de comando `npm install`
 - Depois execute `npm start`
